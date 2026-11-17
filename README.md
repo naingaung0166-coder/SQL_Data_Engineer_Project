@@ -6,7 +6,7 @@ The following projects are a collection of SQL projects that I have worked on to
 
 ## Projects
 
-### [1. EDA](./1.9/1_EDA/) - Exploratory Data Analysis
+### [1. EDA](./SQL_Data_Engineering_Project/Projects/1_EDA/) - Exploratory Data Analysis
 
 ![Project 1 Overview](./SQL_Data_Engineering_Project/Projects/1_EDA/image/1_1_Project1_EDA.png)
 
